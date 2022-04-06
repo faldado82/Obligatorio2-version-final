@@ -1,0 +1,242 @@
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.csproj.AssemblyReference.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.AssemblyInfoInputs.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.AssemblyInfo.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.RazorAssemblyInfo.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.RazorAssemblyInfo.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.exe
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.deps.json
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.runtimeconfig.json
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.runtimeconfig.dev.json
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.pdb
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.Views.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.Views.pdb
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\staticwebassets\Obligatorio2.StaticWebAssets.Manifest.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\staticwebassets\Obligatorio2.StaticWebAssets.xml
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Obligatorio2.styles.css
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.TagHelpers.input.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.TagHelpers.output.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.RazorCoreGenerate.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.RazorTargetAssemblyInfo.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.RazorTargetAssemblyInfo.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.Views.pdb
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.pdb
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.genruntimeconfig.cache
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.csproj.CopyComplete
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Registro.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Actividad\Index.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logout.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Compra\Index.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\OpBusqueda.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Compra\CompraUsuario.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaClientes.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\OpListarActividadesPorFechaYCategoria.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\OpListarActividadesPorLugar.cshtml.g.cs
+C:\Users\Esteban\Desktop\Obligatorio2P2\Obligatorio2\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\OpListarComprasMayorValor.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.exe
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.deps.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.runtimeconfig.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.runtimeconfig.dev.json
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.Views.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Obligatorio2.Views.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.csproj.AssemblyReference.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.AssemblyInfoInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.AssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.csproj.CoreCompileInputs.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.RazorAssemblyInfo.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.RazorAssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\staticwebassets\Obligatorio2.StaticWebAssets.Manifest.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\staticwebassets\Obligatorio2.StaticWebAssets.xml
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\scopedcss\bundle\Obligatorio2.styles.css
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.TagHelpers.input.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.TagHelpers.output.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.RazorCoreGenerate.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Actividad\Index.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Compra\CompraUsuario.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Compra\Index.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaClientes.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Login.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Logout.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\OpBusqueda.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\OpListarActividadesPorFechaYCategoria.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\OpListarActividadesPorLugar.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\OpListarComprasMayorValor.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\Registro.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.RazorTargetAssemblyInfo.cache
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.RazorTargetAssemblyInfo.cs
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.Views.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.csproj.CopyComplete
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.dll
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.pdb
+C:\Users\Fran\OneDrive\Escritorio\ORT\SEMESTRE 2\P2\OBLIGATORIO 2 P2\version final\Obligatorio2 version final\Obligatorio2\obj\Debug\netcoreapp3.1\Obligatorio2.genruntimeconfig.cache

@@ -1,0 +1,66 @@
+﻿@using Microsoft.AspNetCore.Http;
+@model IEnumerable<ObligatorioP2.Actividad>
+
+@{
+    ViewData["Title"] = "Index";
+}
+<body class="container-fluid bg-dark text-light">
+    <h1>Lista de Actividades</h1>
+
+
+    <table class="table table-striped text-light">
+        <thead class="text-center">
+            <tr>
+                <th>
+                    NOMBRE
+                </th>
+                <th>
+                    FECHA Y HORA
+                </th>
+                <th>
+                    CATEGORIA DE EDAD
+                </th>
+                <th>
+                    LIKES
+                </th>
+                <th>
+                    PRECIO
+                </th>
+                @if (Context.Session.GetString("logueadoNombreUsuario") != null)
+                {
+                    <th>
+                    </th>
+                }
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.actividadesList)
+            {
+            <tr>
+                <td>
+                    @item.Nombre
+                </td>
+                <td>
+                    @item.FechaHora
+                </td>
+                <td>
+                    @item.EdadMinima
+                </td>
+                <td>
+                    @item.CantidadMeGusta
+                </td>
+                <td>
+                    $ @item.precioFinal()
+                </td>
+                @if (Context.Session.GetString("logueadoRol") == "Cliente")
+                {                  
+                    <td>
+                        @Html.ActionLink("Me gusta", "MeGusta", new { id = item.IdActividad }) -
+                        @Html.ActionLink("Comprar", "CompraUsuario", "Compra", new { id = item.IdActividad }) 
+                    </td>
+                }           
+            </tr>
+            }
+        </tbody>
+    </table>
+</body>

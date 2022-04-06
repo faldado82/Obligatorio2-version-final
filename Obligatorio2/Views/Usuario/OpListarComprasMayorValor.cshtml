@@ -1,0 +1,68 @@
+﻿@model IEnumerable<ObligatorioP2.Compra>
+
+@{
+    ViewData["Title"] = "ListaCompras";
+}
+
+<body class="container-fluid bg-dark text-light">
+    <h1>Lista de compras de mayor valor</h1>
+
+    <table class="table table-striped text-light">
+        <thead>
+            <tr>
+                <th>
+                    ID COMPRA
+                </th>
+                <th>
+                    NOMBRE
+                </th>
+                <th>
+                    CANTIDAD DE ENTRADAS
+                </th>
+                <th>
+                    USUARIO
+                </th>
+                <th>
+                    FECHA Y HORA DE COMPRA
+                </th>
+                <th>
+                    ESTADO
+                </th>
+                <th>
+                    PRECIO FINAL
+                </th>
+                <th>
+                    
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.ComprasMax)
+            {
+            <tr>
+                <td>
+                    @item.IdCompra
+                </td>
+                <td>
+                    @item.Usuario.Nombre
+                </td>
+                <td>
+                    @item.CantidadEntradas
+                </td>
+                <td>
+                    @item.Usuario.Nombre
+                </td>
+                <td>
+                    @item.FechaHoraCompra
+                </td>
+                <td>
+                    @item.Estado
+                </td>
+                <td>
+                    @item.PrecioFinal
+                </td>
+            </tr>
+            }
+        </tbody>
+    </table>
+</body>

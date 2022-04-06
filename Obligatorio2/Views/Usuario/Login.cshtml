@@ -1,0 +1,64 @@
+﻿@model ObligatorioP2.Usuario
+
+@{
+    ViewData["Title"] = "Login";
+}
+<body class="container-fluid bg-dark text-light">
+    <h1>Logueo</h1>
+
+    <h4 class="text-muted">Usuario</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Login" method="post" id="formularioLogin">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="NombreUsuario" class="control-label">Nombre de Usuario </label>
+                    <input asp-for="NombreUsuario" type="text" class="form-control" name="nombreUsuario" id="nomUsuario" required />
+                    <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="control-label"></label>
+                    <input asp-for="Password" type="password" class="form-control" name="password" id="pass" required />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Login" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="mt-2">
+        <a asp-action="Index">Ir a Lista de Actividades</a>
+    </div>
+
+    <p id="pMensaje">@ViewBag.Logueado</p>
+</body>
+
+
+
+
+    @section Scripts
+{
+
+        <script>
+            document.querySelector("#formularioLogin").addEventListener('submit', validarFormularioLogin);
+
+            function validarFormularioLogin(evento) {
+                evento.preventDefault();
+                let nomUsuario = document.querySelector("#nomUsuario").value;
+                let password = document.querySelector("#pass").value;
+                if (nomUsuario != "" && password != "") {
+                    this.submit();
+                } else {
+                    document.querySelector("#pMensaje").innerHTML = "Error de datos ingresados";
+                }
+            }
+        
+        </script>
+
+    }
+

@@ -1,0 +1,76 @@
+﻿@using Microsoft.AspNetCore.Http;
+@model IEnumerable<ObligatorioP2.Compra>
+
+@{
+    ViewData["Title"] = "Compras realizadas";
+}
+<body class="container-fluid bg-dark text-light">
+    <h1>Historial de compras realizadas por @Context.Session.GetString("logueadoNombreUsuario")</h1>
+
+
+    <table class="table text-light">
+        <thead>
+            <tr>
+                <th>
+                    NOMBRE ACTIVIDAD
+                </th>
+                <th>
+                    CANTIDAD DE ENTRADAS
+                </th>
+                <th>
+                    FECHA Y HORA DE LA COMPRA
+                </th>
+                <th>
+                    FECHA Y HORA DE LA ACTIVIDAD
+                </th>
+                <th>
+                    PRECIO TOTAL
+                </th>
+                <th>
+                    ESTADO
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.comprasList)
+            {
+                if(item.PrecioFinal > 500 && item.Estado == "Activa")
+                {
+
+            <tr>
+                <td>
+                    @item.Actividad.Nombre
+                </td>
+                <td>
+                    @item.CantidadEntradas
+                </td>
+                <td>
+                    @item.FechaHoraCompra
+                </td>
+                <td>
+                    @item.Actividad.FechaHora
+                </td>
+                <td>
+                    $ @item.PrecioFinal
+                </td>
+                <td>
+                    @item.Estado
+                </td>
+                <td>
+                    @if(item.Estado == "Activa")
+                {
+                    @Html.ActionLink("Cancelar", "CancelarCompra", new { id = item.IdCompra })
+                }
+                </td>
+            </tr>
+                }
+            }
+        </tbody>
+    </table>
+    <p>@ViewBag.Cancelado</p> <!-- Sin funcionar-->
+
+    <div class="mt-2">
+        <a asp-controller="Usuario" asp-action="Index">Ir a Lista de Actividades</a>
+    </div>
+</body>

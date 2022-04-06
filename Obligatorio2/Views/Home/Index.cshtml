@@ -1,0 +1,100 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+@{
+     ViewData["Title"] = "Home Page";
+}
+
+    <body class="pb-5 bg-dark text-light">
+        <main class="container-fluid">
+
+            @* Titulo - Seccion 1 *@
+            <section class="row">
+
+                <h1 class="col-12 text-center mb-4">
+                    Bienvenido/a <span class="text-uppercase text-primary">
+                        @if (Context.Session.GetString("logueadoNombreUsuario") != null)
+                        {
+                            @Context.Session.GetString("logueadoNombreUsuario")
+                        }
+                    </span> a la web de espectáculos
+                    <br /> de la Dirección Nacional de Cultura
+                </h1>
+
+                <figure class="col-12 text-center">
+                    <img src="/img/dnc.jpg" alt="Dirección Nacional de Cultura Logo" title="Dirección Nacional de cultura" />
+                </figure>
+            </section>
+
+            @* Novedades - Seccion 2*@
+            <section class="row">
+
+                <h2 class="col-12 mt-3">Novedades</h2>
+
+                <article class="col-8">
+                    <p class="lead">
+                        Ciclo de espectáculos y conciertos al aire libre (anfiteatros, parques, etc.) y lugares cerrados (teatros, centros recreativos, etc). <br /><br />
+                        No te pierdas la oportunidad de asistir a cualquiera de ellos, la variedad y calidad artística de cada uno de ellos es inigualable.
+                        Será una oportunidad unica para disfrutar con la familia de lo que mas te gusta.
+                    </p>
+
+                    <p class="lead">
+                        <strong>
+                            <em>
+                                Puede <a asp-controller="Usuario" asp-action="Login">Iniciar Sesión</a> con su usuario para comprar entradas, si no tiene un usuario,
+                                puede <a asp-controller="Usuario" asp-action="Registro">Registrarse</a> en nuestro sitio web y realizar su compra.
+                            </em>
+                        </strong>
+                    </p>
+                </article>
+
+
+                <figure class=" col-4">
+                    <img src="/img/teatroV.jpeg" alt="Alternate Text" class="img-fluid" />
+                    <figcaption>- El Teatro de Verano con localidades agotadas</figcaption>
+                </figure>
+
+            </section>
+
+            @* Noticias - Seccion 3*@
+            <section class="row pt-2">
+
+                <h2 class="col-12">Noticias</h2>
+                <article class="col-4">
+                    <figure>
+                        <img src="/img/museo.jpg" alt="Alternate Text" class="img-fluid" />
+                        <figcaption>La edición número 16 de Museos en la Noche, se realizará el viernes 10 de diciembre desde las 19 horas.</figcaption>
+                    </figure>
+
+                    <p>
+                        Es un evento en la que los museos de nuestro país abren sus puertas en un horario no habitual, contando con distintas intervenciones artísticas, culturales y/o recreativas que invitan a visitarlos.
+                        Tiene como objetivo promover e incentivar el acercamiento de la ciudadanía a los museos y su acervo cultural, proponiendo una manera distinta de vivirlos.
+                    </p>
+                </article>
+
+                <article class="col-4">
+                    <figure>
+                        <img src="/img/concursoFoto.png" alt="Alternate Text" class="img-fluid" />
+                        <figcaption>El Instituto Nacional de Artes Visuales (INAV) agradecen a las propuestas que se presentaron a la convocatoria y felicitan a los seleccionados.</figcaption>
+                    </figure>
+
+                    <p>
+                        El concurso fotográfico fue inspirado en los textos del poeta y compositor salteño en el marco de la celebración de los 100 años de su nacimiento.
+                        Se creó con el objetivo de poner en valor su obra, considerando por tema cualquiera de los lugares, paisajes, personajes y oficios de nuestro país a los que Lima hace referencia.⁣
+                    </p>
+                </article>
+
+                <article class="col-4">
+                    <figure>
+                        <img src="/img/arte-cartografico.png" alt="Alternate Text" class="img-fluid" />
+                        <figcaption>Los concursantes presentarán cartografías artísticas de las capitales departamentales, realzando sus particularidades históricas.</figcaption>
+                    </figure>
+
+                    <p>
+                        Arte Cartográfico es un proyecto impulsado desde el Área de Creatividad a través del programa Rutas Culturales y el Instituto Nacional de Artes Visuales.
+                        Su objetivo es aportar al fortalecimiento de las expresiones culturales, la valoración del patrimonio, el reconocimiento de la riqueza y la diversidad cultural de los habitantes de Uruguay.
+                    </p>
+                </article>
+
+            </section>
+        </main>
+    </body>

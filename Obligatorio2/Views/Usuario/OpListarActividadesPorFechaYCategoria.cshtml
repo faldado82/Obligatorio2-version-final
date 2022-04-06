@@ -1,0 +1,120 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+<body class="container-fluid bg-dark text-light">
+    @* Dadas dos fechas y una categoría listar todas las actividades que cumplan con el filtro.*@
+
+    <section class="row">
+        <h1 class="col-12">Listar Actividades dadas dos fechas</h1>
+
+        <form method="post" class="col-4" id="formActFC">
+
+
+            <label>Ingrese la primera fecha:</label> <br />
+            <input type="date" name="f1" class="form-control"  id="f1" required/> <br />
+
+            <label>Ingrese la segunda fecha:</label> <br />
+            <input type="date" name="f2" class="form-control" id="f2" required/> <br />
+
+            <label>Ingrese una categoria:</label> <br />
+                 <select name="cat" id="cat" class="form-control">
+                  <option value="-1">Seleccione categoría</option>
+                  @foreach (var c in ViewBag.CategoriasList)
+                  {
+                  <option value="@c.NombreCategoria">@c.NombreCategoria</option>
+                   }
+                  </select>
+            <br />
+            <input type="submit" name="name" value="Buscar" class="btn btn-primary mt-4" />
+            <p id="pMensaje"></p>
+        </form>
+
+    </section>
+
+
+
+    @if (ViewBag.CountDeLista > 0)
+    {
+        <h1>Lista de actividades filtradas por categoría y fechas</h1>
+
+
+        <table class="table table-striped text-light">
+            <thead class="text-center">
+                <tr>
+                    <th>
+                        NOMBRE
+                    </th>
+                    <th>
+                        FECHA Y HORA
+                    </th>
+                    <th>
+                        CATEGORIA DE EDAD
+                    </th>
+                    <th>
+                        LIKES
+                    </th>
+                    <th>
+                        PRECIO
+                    </th>
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in ViewBag.ActividadesFiltradas)
+                {
+                    <tr>
+                        <td>
+                            @item.Nombre
+                        </td>
+                        <td>
+                            @item.FechaHora
+                        </td>
+                        <td>
+                            @item.EdadMinima
+                        </td>
+                        <td>
+                            @item.CantidadMeGusta
+                        </td>
+                        <td>
+                            $ @item.precioFinal()
+                        </td>
+
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+    }else {
+    <p>No hay coincidencias para su busqueda</p>
+    }
+</body>
+
+@section Scripts {
+
+<script>
+
+    document.querySelector("#formActFC").addEventListener('submit', FormActFC);
+
+    function FormActFC(evento) {
+        evento.preventDefault();
+        let f1 = document.querySelector("#f1").value;
+        let f2 = document.querySelector("#f2").value;
+        let cat = document.querySelector("#cat").value;
+        let mensaje = "";
+        if (f1 > f2) {
+            var aux = f1;
+            f1 = f2;
+            f2 = aux;
+        }
+        if (f1 != "" && f2 != "" && cat!="-1") {
+            this.submit();
+
+        } else {
+            mensaje = "Error en el ingreso de fechas o categoría.";
+        }
+        document.querySelector("#pMensaje").innerHTML = mensaje;
+    }
+
+</script>
+
+}

@@ -1,0 +1,80 @@
+﻿@model ObligatorioP2.Compra
+
+@{
+    ViewData["Title"] = "CompraUsuario";
+}
+<body class="container-fluid bg-dark text-light">
+    <h1>Compra</h1>
+
+    <h4 class="text-muted">Compra de Usuario</h4>
+    <hr />
+    <div class="row">
+
+        <div class="col-md-4">
+            <form method="post" id="formularioCompra">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label class="control-label">Cantidad de Entradas:</label>
+                    <input type="number" name="canEnt" class="form-control" id="canEnt" placeholder="Ingrese cantidad de entradas a comprar" />
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label">Nombre de Espectaculo:</label>
+                    <input type="text" name="nombre" class="form-control" id="nombre" value="@ViewBag.ActividadComprada.Nombre" readonly />
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label">Lugar de Espectaculo:</label>
+                    <input type="text" name="lugar" class="form-control" id="lugar" value="@ViewBag.ActividadComprada.Lugar.Nombre" readonly />
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label">Descripción de Espectaculo:</label>
+                    <input type="text" name="categoria" class="form-control" id="categoria" value="@ViewBag.ActividadComprada.Categoria.Descripcion" readonly />
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label">Fecha y Hora de Espectaculo:</label>
+                    <input class="form-control" name="fechaEspectaculo" id="fechaEspectaculo" value="@ViewBag.ActividadComprada.FechaHora" readonly />
+                </div>
+
+                <div class="form-group">
+                    <label class="control-label">Precio por Entrada:</label>
+                    <input name="precioF" class="form-control" id="precioF" value="@ViewBag.ActividadComprada.precioFinal()" readonly />
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Realizar Compra" class="btn btn-primary" /><span class="ml-3">@ViewBag.MensajeCompra</span><p id="pMensajeCompra"></p>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-controller="Actividad" asp-action="Index">Volver a Lista de Actividades</a>
+    </div>
+
+
+
+</body>
+
+
+@section Scripts {
+    <script>
+        document.querySelector("#formularioCompra").addEventListener('submit', validarRegistroCompra);
+        function validarRegistroCompra(evento) {
+            evento.preventDefault();
+            let cantEntradas  = document.querySelector("#canEnt").value;
+            let numeroCantEntradas = Number(cantEntradas);
+            let mensaje = "";
+            if (numeroCantEntradas > 0) {
+                this.submit();
+            }
+            else {
+                    mensaje = "Error, el mínimo de entradas que puede comprar es 1.";
+            }
+                document.querySelector("#pMensajeCompra").innerHTML = mensaje;
+        }
+    </script>
+}

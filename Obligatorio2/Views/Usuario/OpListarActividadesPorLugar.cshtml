@@ -1,0 +1,112 @@
+﻿@using Microsoft.AspNetCore.Http;
+
+<body class="container bg-dark text-light">
+
+    <section class="row">
+
+    <h1 class="col-12">Listar actividades dado un lugar</h1>
+
+    <form method="post" class="col-4" id="formActL">
+
+        <label>Seleccione un Lugar:</label>
+        <select name="nombreLugar" class="form-control" id="nombreLugar">
+            <option value="-1">Seleccione Lugar</option>
+            @foreach (var l in ViewBag.Lugares)
+            {
+        <option value="@l.Nombre">@l.IdLugar - @l.Nombre</option>
+            }
+
+        </select>
+        <br />
+        <input type="submit" name="name" value="Listar Actividades" class="btn btn-primary mt-4" />
+        <p id="pMensaje"></p>
+    </form>
+    </section>
+
+
+    @if (ViewBag.LargoLista > 0) { 
+    
+    <h1>Lista de actividades en lugar</h1>
+
+    <table class="table table-striped text-light">
+        <thead class="text-center">
+            <tr>
+                <th>
+                    NOMBRE
+                </th>
+                <th>
+                    CATEGORIA
+                </th>
+                <th>
+                    FECHA Y HORA
+                </th>
+                <th>
+                    EDAD MINIMA
+                </th>
+                <th>
+                    PRECIO
+                </th>
+                <th>
+                    LIKES
+                </th>
+                
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.ActividadesXLugar)
+            {
+            <tr>
+                <td>
+                    @item.Nombre
+                </td>
+                <td>
+                    @item.Categoria.NombreCategoria
+                </td>
+                <td>
+                    @item.FechaHora
+                </td>
+                <td>
+                    @item.EdadMinima
+                </td>
+                <td>
+                    $ @item.precioFinal()
+                </td>
+                <td>
+                    @item.CantidadMeGusta
+                </td>
+
+            </tr>            
+            }
+        </tbody>
+    </table>
+    
+    
+}
+else { 
+        <p>No hay coincidencias para su busqueda</p>
+    }
+
+</body>
+
+@section Scripts{
+
+<script>
+    document.querySelector("#formActL").addEventListener('submit', FormActLugar).value;
+
+    function FormActLugar(evento) {
+
+      evento.preventDefault();
+      let lugar = document.querySelector("#nombreLugar").value;
+      let mensaje = "";
+
+        if (lugar != "-1") {
+            this.submit();
+
+        } else {
+            mensaje = "Seleccione un lugar";
+        }
+        document.querySelector("#pMensaje").innerHTML = mensaje;
+    }
+</script>
+
+}

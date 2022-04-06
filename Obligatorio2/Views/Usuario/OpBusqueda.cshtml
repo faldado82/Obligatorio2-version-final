@@ -1,0 +1,114 @@
+﻿<body class="container-fluid bg-dark text-light">
+    <h1>Busqueda de compras realizadas entre dos fechas</h1>
+
+    <div class="row">
+        <div class="col-4">
+            <form method="post" id="formBusqueda">
+
+                <label>Ingrese la primera fecha:</label> <br />
+                <input type="date" name="f1" class="form-control" id="f1" required/> <br />
+
+                <label>Ingrese la segunda fecha:</label> <br />
+                <input type="date" name="f2" class="form-control" id="f2"  required/> <br />
+
+                <input type="submit" name="name" value="Iniciar Busqueda" class="btn btn-primary mb-3" />
+                <p id="pMensaje"></p>
+            </form>
+        </div>
+
+
+        <div class="col-12">
+
+            @if (ViewBag.LargoCompras > 0)
+            {
+                <h3 class="mt-3">Resultado</h3>
+
+                <table class="table table-striped text-light">
+                    <thead>
+                        <tr>
+                            <th>
+                                NOMBRE DE ACTIVIDAD
+                            </th>
+                            <th>
+                                CANTIDAD ENTRADAS
+                            </th>
+                            <th>
+                                NOMBRE DE USUARIO
+                            </th>
+                            <th>
+                                FECHA HORA COMPRA
+                            </th>
+                            <th>
+                                PRECIO
+                            </th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var c in ViewBag.ComprasFecha)
+                        {
+                            <tr>
+                                <td>
+                                    @c.Actividad.Nombre
+                                </td>
+                                <td>
+                                    @c.CantidadEntradas
+                                </td>
+                                <td>
+                                    @c.Usuario.Nombre
+                                </td>
+                                <td>
+                                    @c.FechaHoraCompra
+                                </td>
+                                <td>
+                                    @c.PrecioFinal
+                                </td>
+                            </tr>
+                        }
+
+
+
+                    </tbody>
+                </table>
+            }
+            else {
+             <p> No hay coincidencias para su busqueda </p>
+            }
+
+
+
+</div>
+    </div>
+</body>
+
+@section Scripts{
+
+<script>
+    document.querySelector("#formBusqueda").addEventListener('submit', FormularioBusqueda);
+
+    function FormularioBusqueda(evento) {
+        evento.preventDefault();
+        
+        let f1 = document.querySelector("#f1").value;
+        let f2 = document.querySelector("#f2").value;
+        let mensaje = "";
+        if (f1 > f2) {
+            var aux = f1;
+            f1 = f2;
+            f2 = aux;
+        }
+        if (f1 != "" && f2 != "") {
+            this.submit();
+
+        } else {
+            mensaje = "error en el ingreso de fechas";
+        }
+        document.querySelector("#pMensaje").innerHTML = mensaje;
+    }
+
+</script>
+    
+    
+
+
+ }

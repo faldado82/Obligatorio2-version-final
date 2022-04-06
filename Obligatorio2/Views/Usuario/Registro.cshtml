@@ -1,0 +1,164 @@
+﻿@model ObligatorioP2.Usuario
+
+@{
+    ViewData["Title"] = "Registro";
+}
+
+<body class="container-fluid bg-dark text-light">
+    <h1>Registro</h1>
+
+    <h4 class="text-muted">Usuario</h4>
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Registro" method="post" id="formularioRegistro">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Nombre" class="control-label"></label>
+                    <input asp-for="Nombre" type="text" class="form-control" name="nombre" id="nombre" required />
+                    <span asp-validation-for="Nombre" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Apellido" class="control-label"></label>
+                    <input asp-for="Apellido" type="text" class="form-control" name="apellido" id="apellido" required />
+                    <span asp-validation-for="Apellido" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label"></label>
+                    <input asp-for="Email" type="email" class="form-control" name="email" id="email" required />
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="FechaNac" class="control-label">Fecha de Nacimiento</label>
+                    <input asp-for="FechaNac" class="form-control" name="fechaNac" id="fechaNac" required />
+                    <span asp-validation-for="FechaNac" class="text-danger" id="spanFecha"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="NombreUsuario" class="control-label">Nombre de Usuario</label>
+                    <input asp-for="NombreUsuario" class="form-control" name="nombreUsuario" id="nombreUsuario" required />
+                    <span asp-validation-for="NombreUsuario" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Password" class="control-label"></label>
+                    <input asp-for="Password" type="password" class="form-control" name="password" id="password" required />
+                    <span asp-validation-for="Password" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <input type="submit" value="Crear Usuario" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div>
+        <a asp-action="Index">Ir a Lista de Actividades</a>
+    </div>
+    <p class="text-danger" id="pMensaje"></p>
+    @ViewBag.NuevoUsuario
+
+</body>
+
+@section Scripts {
+    <script>
+        document.querySelector("#formularioRegistro").addEventListener('submit', validarFormularioRegistro);
+
+        function validarFormularioRegistro(evento) {
+            evento.preventDefault();
+
+            let nombre = document.querySelector("#nombre").value;
+            let apellido = document.querySelector("#apellido").value;
+            let email = document.querySelector("#email").value;
+            let fechaNac = document.querySelector("#fechaNac").value;
+            let nombreUsu = document.querySelector("#nombreUsuario").value;
+            let pass = document.querySelector("#password").value;
+            let mensaje = "";
+
+
+            if (nombre.length >= 2) {
+
+                if (apellido.length >= 2) {
+
+                    if (email!="") {
+
+                        if (validarPassword(pass)) {
+
+                            if (fechaNac != "") {
+
+                                if (nombreUsu != "") {
+                                    this.submit();
+                                    mensaje = "Registro realizado con éxito."
+                                }
+                                else {
+                                    mensaje = "Error en el usuario"
+                                }
+                            }
+                            else {
+                                mensaje = "Error en Fecha de Nacimiento."
+                            }
+                        }
+                        else {
+                            mensaje = "Error en el Password, verifique sus datos de ingreso."
+                        }
+                    }
+                    else {
+                        mensaje = "Error en el Email, verifique sus datos de ingreso."
+                    }
+                }
+                else {
+                    mensaje = "Error en el Apellido, verifique sus datos de ingreso."
+                }
+            }
+            else {
+                mensaje = "Error en el Nombre, verifique sus datos de ingreso."
+            }
+            document.querySelector("#pMensaje").innerHTML = mensaje;
+        }
+
+        function validarPassword(pass) {
+            let hayMayuscula = false;
+            let hayMinuscula = false;
+            let hayNumero = false;
+            let todoValido = false
+
+            if (pass.length >= 6) {
+                for (let i = 0; i < pass.length; i++) {
+                    // Chequea el carácter en busca de mayusculas
+                    if (
+                        pass.charCodeAt(i) >= 65 &&
+                        pass.charCodeAt(i) <= 90
+                    ) {
+                        hayMayuscula = true;
+                    }
+                    // Chequea el carácter en busca de minúsculas
+                    if (
+                        pass.charCodeAt(i) >= 97 &&
+                        pass.charCodeAt(i) <= 122
+                    ) {
+                        hayMinuscula = true;
+                    }
+                    // Chequea el carácter en busca de números
+                    if (
+                        pass.charCodeAt(i) >= 48 &&
+                        pass.charCodeAt(i) <= 57
+                    ) {
+                        hayNumero = true;
+                    }
+                }
+            }
+            if (hayMayuscula && hayMinuscula && hayNumero) {
+                todoValido = true;
+            }
+            return todoValido;
+        }
+
+    </script>
+}
+
+
+
+
+
+
+
